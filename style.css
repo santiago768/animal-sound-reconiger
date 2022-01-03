@@ -1,0 +1,36 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: blue;
+    width: 100%;
+    color: cornsilk;
+    text-align: center;
+    line-height: 3;
+    font-size: 20px;
+    text-shadow: 10px 10px 10px black;
+    letter-spacing: 4px;
+}
+
+.header_div {
+    background-color: dodgerblue;
+    color: ghostwhite;
+}
+
+body {
+    font-family: 'Special Elite', cursive;
+}
+
+.header_div p {
+    color: rgb(249, 253, 255);
+    font-weight: bolder;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 150px;
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing:5px ;
+}
+
